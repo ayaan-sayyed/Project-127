@@ -1,0 +1,30 @@
+.heading {
+    color: hsl(180, 100%, 50%);
+    font-size: 19px;
+    font-weight: bold;
+    width: 100%;
+    font-variant: small-caps;
+}
+
+span {
+    font-size: 16px;
+    color: yellow;
+}
+
+.div_song {
+    margin-top: 10px;
+    text-align: center;
+}
+
+
+.song_result {
+    font-size: 18px;
+    color: green;
+    font-weight: bold;
+}
+
+canvas{
+    border: 10px solid red;
+    border-radius: 20px;
+    box-shadow: 12px 10px 60px cyan;
+    }
