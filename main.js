@@ -19,13 +19,3 @@ function draw() {
     image(video, 0, 0, 650, 470);
 }
 
-
-function play() {
-    TheNights.play();
-    TheNights.setVolume(0.7);
-    TheNights.rate(1);
-}
-
-function stop() {
-    TheNights.stop();
-}

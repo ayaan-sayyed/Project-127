@@ -23,26 +23,7 @@ span {
     font-weight: bold;
 }
 
-#PLAY{
-    font-size: 25px;
-    background-color: cyan;
-    font-weight: bold;
-    width: 20%;
-    height: 40%;
-    }
 
-    #PLAY:hover{
-    background-color: orangered;
-    }
-
-    #STOP{
-        font-size: 25px;
-        background-color:fuchsia;
-        font-weight: bold;
-        width: 20%;
-        height: 40%;
-        }
-    
         #STOP:hover{
         background-color:darkorchid;
         }
